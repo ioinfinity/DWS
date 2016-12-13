@@ -13,12 +13,12 @@ SENDER_PWD = ''
 RECEIVERS = ''
 TARGET_URL = ''
 
-DISTINATION_FOLDER_A = '/var/www/html/starcity'
-DISTINATION_FOLDER_B = '/var/www/html/sweetheart'
-BnBPath_A_FOLDER_R = '/var/www/html/bitbucket/bootstrap-official-website-for-sweetheart-and-starcity/war/starcity'
-BnBPath_A_FOLDER_U = '/var/www/html/bitbucket_title/bootstrap-official-website-for-sweetheart-and-starcity/war/starcity'
-BnBPath_B_FOLDER_R = '/var/www/html/bitbucket/bootstrap-official-website-for-sweetheart-and-starcity/war/sweetheart'
-BnBPath_B_FOLDER_U = '/var/www/html/bitbucket_title/bootstrap-official-website-for-sweetheart-and-starcity/war/sweetheart'
+DISTINATION_FOLDER_A = ''
+DISTINATION_FOLDER_B = ''
+BnBPath_A_FOLDER_R = ''
+BnBPath_A_FOLDER_U = ''
+BnBPath_B_FOLDER_R = ''
+BnBPath_B_FOLDER_U = ''
 
 
 def url_success(url):
