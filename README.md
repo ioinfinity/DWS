@@ -1,1 +1,2 @@
 # DWS
+Detects website status.
